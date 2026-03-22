@@ -1,5 +1,5 @@
 
-public class MainString {
+public class Main {
     public static void main(String[] args) {
         /* STRING */
         String text = "Uzbekistan - a country with a great future";
