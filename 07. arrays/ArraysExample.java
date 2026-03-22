@@ -1,6 +1,6 @@
 import java.util.Arrays;
 
-public class Main {
+public class ArraysExample {
     public static void main(String[] args) {
         /*
          * ARRAYS: Object

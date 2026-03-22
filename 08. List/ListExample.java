@@ -3,7 +3,7 @@ import java.util.Collections;
 import java.util.List;
 import java.util.stream.Collectors;
 
-public class Main {
+public class ListExample {
     public static void main(String[] args) {
         /*
          * LIST: ArrayList & LinkedList
